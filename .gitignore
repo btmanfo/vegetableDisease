@@ -1,0 +1,21 @@
+# Python venv
+mlenvTensor/
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+models/
+
+archive/
